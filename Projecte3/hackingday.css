@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+}
+/*welcome*/
+h1 {
+    color: #333;
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  .info-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }/*no m importa */ 
+  .highlight {
+    background-color: #ffffcc;
+    padding: 5px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+.instr{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  /*res de res*/
+  th {
+    background-color: #f2f2f2;
+  }
+
+/*dia de naixamentes el teu primer dia */
+.heading{
+    text-align: center;
+    color: aliceblue;
+    background-color: brown;
+}
+/*data de naixament es molt important */
+.container button {
+    text-align: center;
+    color :pink;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 50px;
+    border: solid black ;
+    border-radius:20px ;
+    margin:20px ;
+}
+/*Nombre d'unitats per mes*/
+img {
+    width:50px;
+    height: 50px;
+    border: solid black 2px ;
+    border-radius:50px ;
+    display: none;
+}
+
+
+/*at the end javascript is also important in building websites */
